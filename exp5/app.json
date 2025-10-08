@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "todolist",
+    "slug": "todolist",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0"
+  }
+}
